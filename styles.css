@@ -137,4 +137,7 @@ font-family: Georgia, 'Times New Roman', Times, serif;
         font-size: 15px; /* Ajusta el tamaño del texto en la columna de información */
 
     }
+    .titulos{
+     margin-top: 20px;
+    }
 }
