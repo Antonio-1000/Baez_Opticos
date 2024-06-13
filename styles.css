@@ -80,7 +80,11 @@ font-family: Georgia, 'Times New Roman', Times, serif;
     margin: auto; /* Centra el carrusel horizontalmente */
 }
 .carousel-container {
-    margin-top: 80px;
+    margin-top: 20px;
+}
+.carousel-container2{
+    margin-top: 3px;
+
 }
 .carousel-inner img {
     max-height: 300px; /* Ajusta la altura máxima de las imágenes */
@@ -117,7 +121,9 @@ font-family: Georgia, 'Times New Roman', Times, serif;
     max-width: 50px; /* Ajusta el ancho máximo de la imagen */
     max-height: 50px; /* Ajusta la altura máxima de la imagen */
 }
-
+.titulos{
+    margin-top: 20px;
+}
 
 @media screen and (max-width: 768px) {
     .menu ul li {
@@ -134,13 +140,7 @@ font-family: Georgia, 'Times New Roman', Times, serif;
         font-size: 14px; /* Ajusta el tamaño del texto en la columna de información */
     }
     .letra2{
-        font-size: 15px; /* Ajusta el tamaño del texto en la columna de información */
+        font-size: 12px; /* Ajusta el tamaño del texto en la columna de información */
 
     }
-    .titulos{
-     margin-top: 5px;
-    }
-    .carousel-container {
-    margin-top: 20px;
-   }
 }
