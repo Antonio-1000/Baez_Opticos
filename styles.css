@@ -82,10 +82,6 @@ font-family: Georgia, 'Times New Roman', Times, serif;
 .carousel-container {
     margin-top: 20px;
 }
-.carousel-container2{
-    margin-top: 3px;
-
-}
 .carousel-inner img {
     max-height: 300px; /* Ajusta la altura máxima de las imágenes */
     width: 100%; /* Ajusta el ancho de las imágenes para que ocupen todo el ancho del slider */
@@ -142,5 +138,11 @@ font-family: Georgia, 'Times New Roman', Times, serif;
     .letra2{
         font-size: 12px; /* Ajusta el tamaño del texto en la columna de información */
 
+    }
+    .imgtarge{
+
+        width: 150px;
+        height: 100px;
+    
     }
 }
